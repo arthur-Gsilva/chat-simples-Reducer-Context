@@ -1,0 +1,15 @@
+.container{
+    border: 1px solid #ccc;
+    width: 500px;
+}
+
+.chatArea{
+    height: 250px;
+    overflow-y: scroll;
+    padding: 10px;
+}
+
+.messageArea{
+    padding: 10px;
+    border-top: 1px solid #ccc;
+}

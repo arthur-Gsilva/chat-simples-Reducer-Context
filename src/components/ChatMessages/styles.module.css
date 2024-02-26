@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.message{
+    border: 1px solid #ccc;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.userName{
+    font-weight: bold;
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+.icons{
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+    gap: 5px;
+}

@@ -1,0 +1,13 @@
+.container p{
+    margin-bottom: 15px;
+}
+
+.inputArea input{
+    border: 1px solid #ccc;
+    background-color: #444;
+    outline: none;
+    width: 250px;
+    padding: 10px;
+    border-radius: 5px;
+    color: #ccc;
+}
